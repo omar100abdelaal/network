@@ -15,7 +15,7 @@ const destination = [
     'Annapurna'
 ]
 var want
-const collectionname = "user"
+const collectionname = "myCollection"
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
